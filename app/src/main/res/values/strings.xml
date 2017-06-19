@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Daily Fuel Prices</string>
+
+    <!-- AdMob ad unit IDs -->
+    <string name="banner_home_footer">ca-app-pub-9233962475627100/7246102278</string>
+    <string name="interstitial_full_screen">ca-app-pub-9233962475627100/1199568678</string>
+
+</resources>
